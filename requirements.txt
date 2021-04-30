@@ -66,7 +66,7 @@ tornado==6.0.3
 traitlets==4.3.3
 turicreate==5.8
 -e git+https://github.com/Kagandi/turicreate-cross-validation.git@dabf3b7d9d35de767945cc0f3dc6448c2c9b3dc1#egg=turicreate_cross_validation
-urllib3==1.25.7
+urllib3==1.25.8
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.5.1
